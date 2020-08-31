@@ -1,0 +1,4 @@
+Release version: ERAGON660_AND.8.1.0_EI.1.1.0
+Date: 22-Jan-2019
+Qcom chipcode base: r2.1_00024.0
+Qcom caf base: LA.UM.6.2.r1-09500-sdm660.0.xml
